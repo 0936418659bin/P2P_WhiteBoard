@@ -1,1 +1,2 @@
-Project P2P WhiteBoard 
+Project P2P WhiteBoard Java
+
